@@ -262,6 +262,7 @@ public class GUIAdmin {
 		
 		
 		
+		
 
 		activity = new JTextField();
 		activity.setBounds(482, 160, 116, 22);
